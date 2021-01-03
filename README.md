@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hovikgas/nlp_reddit/HEAD)
+
 # Classification of the /r/ADHD and /r/Anxiety SubReddits
 
 ## Executive Summary
