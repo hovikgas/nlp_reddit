@@ -2,11 +2,14 @@ name: nlp_reddit
 channels:
   - conda-forge
 dependencies:
+  - python
   - requests
-  - time
-  - csv
-  - json
-  - re
-  - sklearn
-  - matplotlib
+  - pip
+  - pip: 
+    - time
+    - csv
+    - json
+    - re
+    - sklearn
+    - matplotlib
   
