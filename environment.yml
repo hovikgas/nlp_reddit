@@ -4,9 +4,9 @@ channels:
 dependencies:
   - python
   - requests
+  - time
   - pip
   - pip: 
-    - time
     - csv
     - json
     - re
