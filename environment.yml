@@ -5,9 +5,9 @@ dependencies:
   - python
   - requests
   - time
-  - csv
-  - json
-  - re
-  - sklearn
+  - csvkit
+  - json-c
+  - regex
+  - scikit-learn
   - matplotlib
   
