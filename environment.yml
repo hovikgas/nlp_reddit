@@ -5,11 +5,9 @@ dependencies:
   - python
   - requests
   - time
-  - pip
-  - pip: 
-    - csv
-    - json
-    - re
-    - sklearn
-    - matplotlib
+  - csv
+  - json
+  - re
+  - sklearn
+  - matplotlib
   
