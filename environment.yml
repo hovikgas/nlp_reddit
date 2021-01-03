@@ -1,0 +1,12 @@
+name: nlp_reddit
+channels:
+  - conda-forge
+dependencies:
+  - requests
+  - time
+  - csv
+  - json
+  - re
+  - sklearn
+  - matplotlib
+  
